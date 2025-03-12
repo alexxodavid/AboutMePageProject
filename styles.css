@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+  }
+
+.banner {
+    width: 100%;
+    height: 60px;
+    background: white;
+    top: 0;
+    right 0;
+    clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 15% 100%);
+}
