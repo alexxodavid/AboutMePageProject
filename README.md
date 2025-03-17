@@ -1,2 +1,2 @@
 # AboutMePageProject
-I was working with a fellow from the TKH fellowship and we designed an about me page about each other. After talking to her, I decided to based this creation off of her wonderful, vibrant personaility. 
+I was working with a fellow from the TKH fellowship and we designed an about me page about each other. After talking to her, I decided to based this creation off of her wonderful, vibrant personaility. Copilot helped me get that paint shaped circles into a random order and Kevin Powell(A Youtuber) helped me transcribe the neon colored title more efficently. This project stregthen my flexbox skills and I was introduced to psedo-elements: before and after.
